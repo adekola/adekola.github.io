@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://adekola.github.io
 title: Kola Adebayo
-tagline: technology, life, and in between
-description: My awesome new site
+tagline: 
+description: My thoughts on technology, life, and in betweens
 paginate: 5
