@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://adekola.github.io
+title: Kola Adebayo
+tagline: technology, life, and in between
+description: My awesome new site
+paginate: 5
